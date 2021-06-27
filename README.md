@@ -11,7 +11,7 @@ _Bbotonera con sonidos de luchadores del Mortal Kombat_
 
 _1) Ingresar a la version online: https://csb-qu0p7.netlify.app/_
 
-_2) O al codigo en code sandbox: https://codesandbox.io/s/tender-zhukovsky-qu0p7?file=/package.json_
+_2) O al codigo en code sandbox: https://codesandbox.io/s/botonera-mortal-qu0p7_
 
 
 ## Funcionalidades ⚙️
