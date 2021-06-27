@@ -1,7 +1,30 @@
 # Botonera-Mortal
-botonera con sonidos de mortal kombat
 
 
-Version online: https://csb-qu0p7.netlify.app/
 
-https://codesandbox.io/s/tender-zhukovsky-qu0p7?file=/package.json
+_Bbotonera con sonidos de luchadores del Mortal Kombat_
+
+![image](https://user-images.githubusercontent.com/63132435/123553178-11bebb00-d750-11eb-9d20-eecfd3899704.png)
+
+
+### Instalación 🔧
+
+_1) Ingresar a la version online: https://csb-qu0p7.netlify.app/_
+
+_2) O al codigo en code sandbox: https://codesandbox.io/s/tender-zhukovsky-qu0p7?file=/package.json_
+
+
+## Funcionalidades ⚙️
+
+* **Sonidos por teclado** - Al clickear - del "A" a la "L"
+
+
+## Construido con 🛠️
+
+* [Htlml]
+* [CSS]
+* [Javascript Vanilla]
+
+## Autor ✒️
+
+* **Gabriel Cura Caram** - [ggcaram](https://github.com/ggcaram)
