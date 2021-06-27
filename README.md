@@ -4,7 +4,7 @@
 
 _Bbotonera con sonidos de luchadores del Mortal Kombat_
 
-![image](https://user-images.githubusercontent.com/63132435/123553178-11bebb00-d750-11eb-9d20-eecfd3899704.png)
+![image](https://user-images.githubusercontent.com/63132435/123553242-7aa63300-d750-11eb-856e-255f8c93a488.png)
 
 
 ### Instalación 🔧
